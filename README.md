@@ -19,7 +19,7 @@ Topics to practice:
 6) Creating virtual env
 7) Matplotlib to read and display the images
 
-Iteration 1:
+Iteration 01:
 1) Create main program to accept user details
 2) Open user details .csv file and update with previous
 3) Display on the screen
